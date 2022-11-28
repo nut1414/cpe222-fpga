@@ -1,0 +1,4 @@
+set_io -nowarn led[0] 28
+set_io -nowarn led[1] 38
+set_io -nowarn led[2] 42
+set_io -nowarn clk 34
